@@ -1,0 +1,22 @@
+			Test results out of 25
+			ANALYSIS
+		    -----------
+ ------------------------------------------------------
+|  Total Students sat			  0
+|  Total passed 			  0
+|  Total failed 			  0
+|  Class average			  0
+
+
+			Test results out of 25
+ ST19_______________________________ 25
+ST143_______________________________ 19
+			ANALYSIS
+		    -----------
+ ------------------------------------------------------
+|  Total Students sat			  2
+|  Total passed 			  2
+|  Total failed 			  0
+|  Class average			  1
+
+
